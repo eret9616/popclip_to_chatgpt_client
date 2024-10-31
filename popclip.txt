@@ -1,0 +1,4 @@
+#popclip  
+name: popclip to chatgpt client
+interpreter: bash
+shell script:  echo "$POPCLIP_TEXT" | pbcopy; osascript -e 'tell application "Keyboard Maestro Engine" to do script "popclip to chatgpt client"';
