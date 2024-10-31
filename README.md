@@ -8,5 +8,5 @@
 
 ## Installation
 
-1. select the text from "popclip.txt" to install extension.
-2. double click "popclip to chatgpt client.kmmacros" to install macro.
+1. Select the text from "popclip.txt" to install the extension.
+2. Double-click "popclip to chatgpt client.kmmacros" to install the macro.
