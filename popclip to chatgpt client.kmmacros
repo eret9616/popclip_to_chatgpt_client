@@ -31,19 +31,43 @@
 						<key>MacroActionType</key>
 						<string>ActivateApplication</string>
 						<key>ReopenWindows</key>
-						<false/>
+						<true/>
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 					</dict>
 					<dict>
+						<key>Action</key>
+						<string>Move</string>
 						<key>ActionUID</key>
-						<integer>71402</integer>
+						<integer>71403</integer>
+						<key>Button</key>
+						<integer>0</integer>
+						<key>ClickCount</key>
+						<integer>0</integer>
+						<key>DisplayMatches</key>
+						<false/>
+						<key>DragHorizontalPosition</key>
+						<string>0</string>
+						<key>DragVerticalPosition</key>
+						<string>0</string>
+						<key>Fuzz</key>
+						<integer>15</integer>
+						<key>HorizontalPositionExpression</key>
+						<string>0</string>
 						<key>MacroActionType</key>
-						<string>Pause</string>
-						<key>Time</key>
-						<string>0.5</string>
-						<key>TimeOutAbortsMacro</key>
-						<true/>
+						<string>MouseMoveAndClick</string>
+						<key>Modifiers</key>
+						<integer>0</integer>
+						<key>MouseDrag</key>
+						<string>None</string>
+						<key>Relative</key>
+						<string>Window</string>
+						<key>RelativeCorner</key>
+						<string>Center</string>
+						<key>RestoreMouseLocation</key>
+						<false/>
+						<key>VerticalPositionExpression</key>
+						<string>0</string>
 					</dict>
 					<dict>
 						<key>ActionUID</key>
@@ -91,7 +115,7 @@
 				<key>CreationDate</key>
 				<real>752084533.83117199</real>
 				<key>ModificationDate</key>
-				<real>752123343.54019904</real>
+				<real>752126580.17665899</real>
 				<key>Name</key>
 				<string>popclip to chatgpt client</string>
 				<key>Triggers</key>
