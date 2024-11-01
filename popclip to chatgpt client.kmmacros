@@ -71,19 +71,25 @@
 					</dict>
 					<dict>
 						<key>ActionUID</key>
-						<integer>70621</integer>
-						<key>KeyCode</key>
-						<integer>9</integer>
+						<integer>71406</integer>
 						<key>MacroActionType</key>
-						<string>SimulateKeystroke</string>
-						<key>Modifiers</key>
-						<integer>256</integer>
-						<key>ReleaseAll</key>
+						<string>Pause</string>
+						<key>Time</key>
+						<string>0.5</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+					</dict>
+					<dict>
+						<key>Action</key>
+						<string>Paste</string>
+						<key>ActionUID</key>
+						<integer>71405</integer>
+						<key>IsDisclosed</key>
 						<false/>
-						<key>TargetApplication</key>
-						<dict/>
-						<key>TargetingType</key>
-						<string>Front</string>
+						<key>MacroActionType</key>
+						<string>CutCopyPaste</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
 					</dict>
 					<dict>
 						<key>ActionUID</key>
@@ -91,7 +97,7 @@
 						<key>MacroActionType</key>
 						<string>Pause</string>
 						<key>Time</key>
-						<string>0.5</string>
+						<string>0.2</string>
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 					</dict>
@@ -115,7 +121,7 @@
 				<key>CreationDate</key>
 				<real>752084533.83117199</real>
 				<key>ModificationDate</key>
-				<real>752126580.17665899</real>
+				<real>752134677.343804</real>
 				<key>Name</key>
 				<string>popclip to chatgpt client</string>
 				<key>Triggers</key>
