@@ -37,6 +37,16 @@
 					</dict>
 					<dict>
 						<key>ActionUID</key>
+						<integer>71402</integer>
+						<key>MacroActionType</key>
+						<string>Pause</string>
+						<key>Time</key>
+						<string>0.5</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+					</dict>
+					<dict>
+						<key>ActionUID</key>
 						<integer>70621</integer>
 						<key>KeyCode</key>
 						<integer>9</integer>
@@ -57,7 +67,7 @@
 						<key>MacroActionType</key>
 						<string>Pause</string>
 						<key>Time</key>
-						<string>0.3</string>
+						<string>0.5</string>
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 					</dict>
@@ -81,7 +91,7 @@
 				<key>CreationDate</key>
 				<real>752084533.83117199</real>
 				<key>ModificationDate</key>
-				<real>752084758.61611998</real>
+				<real>752123343.54019904</real>
 				<key>Name</key>
 				<string>popclip to chatgpt client</string>
 				<key>Triggers</key>
