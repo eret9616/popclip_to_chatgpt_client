@@ -48,7 +48,33 @@
 						<key>MacroActionType</key>
 						<string>Pause</string>
 						<key>Time</key>
-						<string>0.5</string>
+						<string>0.2</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+					</dict>
+					<dict>
+						<key>ActionUID</key>
+						<integer>72189</integer>
+						<key>KeyCode</key>
+						<integer>45</integer>
+						<key>MacroActionType</key>
+						<string>SimulateKeystroke</string>
+						<key>Modifiers</key>
+						<integer>256</integer>
+						<key>ReleaseAll</key>
+						<false/>
+						<key>TargetApplication</key>
+						<dict/>
+						<key>TargetingType</key>
+						<string>Front</string>
+					</dict>
+					<dict>
+						<key>ActionUID</key>
+						<integer>72190</integer>
+						<key>MacroActionType</key>
+						<string>Pause</string>
+						<key>Time</key>
+						<string>0.2</string>
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 					</dict>
@@ -138,7 +164,7 @@
 				<key>CreationDate</key>
 				<real>752084533.83117199</real>
 				<key>ModificationDate</key>
-				<real>752142383.48382401</real>
+				<real>752590849.82207</real>
 				<key>Name</key>
 				<string>popclip to chatgpt client</string>
 				<key>Triggers</key>
