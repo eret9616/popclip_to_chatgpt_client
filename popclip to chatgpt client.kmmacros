@@ -54,6 +54,29 @@
 					</dict>
 					<dict>
 						<key>ActionUID</key>
+						<integer>72587</integer>
+						<key>AllWindows</key>
+						<true/>
+						<key>AlreadyActivatedActionType</key>
+						<string>Normal</string>
+						<key>Application</key>
+						<dict>
+							<key>BundleIdentifier</key>
+							<string>com.openai.chat</string>
+							<key>Name</key>
+							<string>ChatGPT</string>
+							<key>NewFile</key>
+							<string>/Applications/ChatGPT.app</string>
+						</dict>
+						<key>MacroActionType</key>
+						<string>ActivateApplication</string>
+						<key>ReopenWindows</key>
+						<false/>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+					</dict>
+					<dict>
+						<key>ActionUID</key>
 						<integer>72189</integer>
 						<key>KeyCode</key>
 						<integer>45</integer>
@@ -75,6 +98,29 @@
 						<string>Pause</string>
 						<key>Time</key>
 						<string>0.2</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+					</dict>
+					<dict>
+						<key>ActionUID</key>
+						<integer>72582</integer>
+						<key>AllWindows</key>
+						<true/>
+						<key>AlreadyActivatedActionType</key>
+						<string>Normal</string>
+						<key>Application</key>
+						<dict>
+							<key>BundleIdentifier</key>
+							<string>com.openai.chat</string>
+							<key>Name</key>
+							<string>ChatGPT</string>
+							<key>NewFile</key>
+							<string>/Applications/ChatGPT.app</string>
+						</dict>
+						<key>MacroActionType</key>
+						<string>ActivateApplication</string>
+						<key>ReopenWindows</key>
+						<false/>
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 					</dict>
@@ -123,6 +169,29 @@
 						<true/>
 					</dict>
 					<dict>
+						<key>ActionUID</key>
+						<integer>72584</integer>
+						<key>AllWindows</key>
+						<true/>
+						<key>AlreadyActivatedActionType</key>
+						<string>Normal</string>
+						<key>Application</key>
+						<dict>
+							<key>BundleIdentifier</key>
+							<string>com.openai.chat</string>
+							<key>Name</key>
+							<string>ChatGPT</string>
+							<key>NewFile</key>
+							<string>/Applications/ChatGPT.app</string>
+						</dict>
+						<key>MacroActionType</key>
+						<string>ActivateApplication</string>
+						<key>ReopenWindows</key>
+						<false/>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+					</dict>
+					<dict>
 						<key>Action</key>
 						<string>Paste</string>
 						<key>ActionUID</key>
@@ -146,6 +215,29 @@
 					</dict>
 					<dict>
 						<key>ActionUID</key>
+						<integer>72586</integer>
+						<key>AllWindows</key>
+						<true/>
+						<key>AlreadyActivatedActionType</key>
+						<string>Normal</string>
+						<key>Application</key>
+						<dict>
+							<key>BundleIdentifier</key>
+							<string>com.openai.chat</string>
+							<key>Name</key>
+							<string>ChatGPT</string>
+							<key>NewFile</key>
+							<string>/Applications/ChatGPT.app</string>
+						</dict>
+						<key>MacroActionType</key>
+						<string>ActivateApplication</string>
+						<key>ReopenWindows</key>
+						<false/>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+					</dict>
+					<dict>
+						<key>ActionUID</key>
 						<integer>71012</integer>
 						<key>KeyCode</key>
 						<integer>36</integer>
@@ -164,7 +256,7 @@
 				<key>CreationDate</key>
 				<real>752084533.83117199</real>
 				<key>ModificationDate</key>
-				<real>752590849.82207</real>
+				<real>752670540.16287601</real>
 				<key>Name</key>
 				<string>popclip to chatgpt client</string>
 				<key>Triggers</key>
