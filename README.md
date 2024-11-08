@@ -8,5 +8,6 @@
 
 ## Installation
 
-1. Select the text from "popclip.txt" to install the extension.
-2. Double-click "popclip to chatgpt client.kmmacros" to install the macro, then enbale it in Keyboard Maestro.
+1. Select all text from "popclip.txt".
+2. When PopClip shows "Install Extension ...", click to install the extension.
+3. Double-click "popclip to chatgpt client.kmmacros" to install the macro, then enable it in Keyboard Maestro.
